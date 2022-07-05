@@ -1,0 +1,16 @@
+,Coefficient,Standard Error,z-statistic,p-value
+Age,-0.899,0.182,-4.947,0.0
+Total Cost,0.086,0.013,6.656,0.0
+Gender,-0.134,0.066,-2.027,0.043
+Tobacco Use,-0.029,0.099,-0.29,0.772
+Pressure,0.628,0.463,1.355,0.176
+Obesity,-0.191,0.065,-2.937,0.003
+Hypertension,-0.27,0.072,-3.736,0.0
+Hypothyroid,-0.38,0.098,-3.881,0.0
+Disease Count,1.622,0.289,5.61,0.0
+Acute Care 2 Months,1.279,0.108,11.791,0.0
+Acute Care 6 Months,0.574,0.25,2.3,0.021
+Inpatient Visits 6 Months,-0.234,0.207,-1.132,0.258
+Emergency Vistits 6 Months,-0.278,0.237,-1.174,0.24
+Line of Bussiness,-0.569,0.111,-5.13,0.0
+Treatment,-0.049,0.08,-0.605,0.545

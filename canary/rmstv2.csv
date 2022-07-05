@@ -1,0 +1,7 @@
+,Agglomerative,Agglomerative,Agglomerative,Decision Tree,Decision Tree,Decision Tree,No Clustering,No Clustering,No Clustering
+,Group 0,Group 1,Group 2,Group 0,Group 1,Group 2,Group 0,Group 1,Group 2
+pval,0.44,0.01,0.08,0.01,0.04,0.06,0.0,0.64,0.0
+rsmt-6,0.01,0.01,0.09,0.01,0.11,0.01,0.0,-0.04,0.13
+rmst-12,0.02,0.13,0.29,0.06,0.6,-0.3,-2.15,-0.03,0.75
+rmst-18,0.09,0.33,0.84,0.21,1.48,-1.29,-7.25,-0.02,2.27
+rmst-24,0.2,0.55,1.52,0.42,2.21,-2.23,-12.1,-0.02,3.86

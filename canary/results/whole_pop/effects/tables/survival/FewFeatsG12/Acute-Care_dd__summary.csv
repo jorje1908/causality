@@ -1,0 +1,6 @@
+,Coefficient,Standard Error,z-statistic,p-value
+Tobacco Use,0.673,0.085,7.924,0.0
+Acute Care 2 Months,1.916,0.068,27.979,0.0
+TrxG1,-0.464,0.136,-3.407,0.001
+TrxG2,-0.308,0.228,-1.351,0.177
+Treatment,0.022,0.08,0.278,0.781
